@@ -7,4 +7,4 @@
 docker-compose up -d --build
 
 ## Открыть
-http://localhost:8080
+http://172.20.10.4:8080/
